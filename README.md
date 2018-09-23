@@ -35,6 +35,28 @@ Desde un punto de vista funcional, la identidad puede ser la suma de atributos a
 Según la RAE, la identidad se define como el “conjunto de rasgos propios de un individuo o de una colectividad que los caracterizan frente a los demás”. Desde un punto de vista práctico, podemos tomar el concepto funcional de identidad esbozado por Preukschat, donde se refiere a la identidad como “la suma de atributos asociados a una persona (edad, altura, fecha de nacimiento, datos biométricos, etc.), atributos acumulados a lo largo del tiempo (información médica, preferencias, metadatos de comunicación, etc.) y atributos designados (número de teléfono, correo electrónico, números de pasaporte, etc.), pero podemos ir más allá de las personas y también hablar de identidades legales, identidades de dispositivos o activos que a menudo están vinculados a la identidad humana”.
 
 
+## **Historias de Usuario:**
+
+1.- Marvin Rivera es originario de El Salvador,  en los últimos años ha sufrido la pérdida de familiares y amigos debido a la violencia en su País. Actualmente tiene 15 años que lo vuelven más vulnerable para el reclutamiento en pandillas. En el último mes ha sido atacado en dos ocasiones; por éste motivo ha pensado salir de su país. Hace dos semanas supo que unos pandilleros lo estaban buscando nuevamente por lo que decidió huir. Debido a la premura de la situación Marvin salió de su hogar sin documentos de identificación y solo con un poco de dinero para su traslado. Al llegar a México se acerca a un albergue que atiende a migrantes en Tránsito, ahí le informan que debido a la condición de violencia en su país puede ser candidato para solicitar Refugio, no cuenta con documentos y otra persona que se encuentra en el albergue solicitando refugio le cuenta que es un trámite engorroso y difícil. Sin embargo, cuando marvin acude a su embajada indican que el trámite que va realizar es en un Dapp en la que generarán una identidad virtual que de ese momento en adelante le servirá para poder identificarse en cualquier situación.
+
+
+2.- María G es venezolana, estudió derecho en la Universidad central de Venezuela. Debido a la crisis ha decidido solicitar refugio en México. Aunque cumple con los requisitos para recibir el estatus de refugiada tiene un problema muy grande para acreditar sus títulos académicos y poder tener oportunidades de desarrollo laboral en México.
+
+
+3.- Ana María es una Diseñadora Gráfica recién titulada, le gusta viajar y es muy activa en las redes sociales. Por un amigo se entero que existe una plataforma la cual le permite ser identificada en cualquier parte del mundo.
+
+## **Puntos de Dolor:**
+
+Regresar a su país de origen y estar en las mismas condiciones que los obligaron a salir.
+Tienen miedo de no poder acceder a trabajo y/o empleos 
+Insertidumbre por el futuro
+Miedo a sufrir rechazo o dicriminación
+Miedo a sufrir abusos o acto de violencia nuevamente
+Dolor por dejar familia y bienes
+
+
+
+
 
 
 
