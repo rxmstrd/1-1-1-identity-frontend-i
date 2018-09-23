@@ -74,7 +74,7 @@ Esto con el propósito de reducir la insidencia de información centralizada y f
 
 ## **Landing Page:**
 
-https://app.instapage.com/builder2?id=11766046&variation=A&responsive_mode=normal
+https://page-preview.instapage.com/preview/06315b0d50bb8e555e37dffe2025a8aaff0bcd4844f7db4cfda5dedab0feafa3?displayMode=0&variation=A
 
 
 
