@@ -48,10 +48,20 @@ Según la RAE, la identidad se define como el “conjunto de rasgos propios de u
 ## **Puntos de Dolor:**
 
 Regresar a su país de origen y estar en las mismas condiciones que los obligaron a salir.
+
+
 Tienen miedo de no poder acceder a trabajo y/o empleos 
+
+
 Insertidumbre por el futuro
+
+
 Miedo a sufrir rechazo o dicriminación
+
+
 Miedo a sufrir abusos o acto de violencia nuevamente
+
+
 Dolor por dejar familia y bienes
 
 
