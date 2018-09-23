@@ -65,6 +65,15 @@ Miedo a sufrir abusos o acto de violencia nuevamente
 Dolor por dejar familia y bienes
 
 
+## **Propuesta de Valor:**
+
+El uso de Blockchaine para la generación de identidades virtuales se está experimentando a través de algunos proyectos como [SelfKey](https://selfkey.org/wp-content/uploads/2017/11/selfkey-whitepaper-es.pdf) el cuál es un proyecto con una estructura que parte de un análisis profundo de la problemática de acreditación de identidad y la vulnearibilidad de los datos a nivel global y que propone una solución mediante la implementación de la tecnología Blockchaine. 
+
+Nuestra propuesta parte de éste tipo de iniciativas y se distingue por ofrecer una tecnología que además de generar una  identidad digital se preocupe por construir una "identidad Social" entendida como el conjunto de caracteríticas, competencias, credenciales, genética, biométricos y skills que son inherentes a una persona  o que desarrolla durante a lo largo de su vida.
+Esto con el propósito de reducir la insidencia de información centralizada y fomentar la interacción entre pares que permita procesos más agiles y donde la información quede en manos de los propios usuarios.
+
+
+
 
 
 
