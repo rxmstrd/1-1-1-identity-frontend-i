@@ -1,0 +1,6 @@
+$color_fondopagina: rgba(150, 102, 180, 0.2);
+
+/*MIXINS*/
+@mixin fullWidth($width){
+	width: $width;
+}
