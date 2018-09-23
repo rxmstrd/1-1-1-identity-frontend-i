@@ -1,0 +1,50 @@
+@import "variables";
+@import "mediaQ";
+
+body{
+	width: 98vw;
+	height: 97vh;
+	background-color: $color_fondopagina;
+}
+
+main{
+	width: 100%;
+	height: 100%;
+
+	.inicio{
+		text-align: center;
+		button{
+			display: inline-block;
+		}
+	}
+
+	.close{
+	    bottom: 0;
+	    position: fixed;
+	    @include fullWidth(100%);
+	    span{
+	    	margin-bottom: 0px;
+	    	margin-top: 0px;	    	
+	    }
+	    #back{
+	    	text-align: left;
+	    	margin-left: -6px;
+	    	margin-right: 0px;
+	    }
+	    #close{
+	    	text-align: right;
+	    	margin-left: -10px;
+	    	margin-right: 0px;
+	    }
+	}
+}
+
+.novisible{
+	display: none;
+}
+
+.visible{
+	display: block;
+}
+
+
