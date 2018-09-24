@@ -3,7 +3,7 @@ Crear una aplicación web que pueda accederse desde un dispositivo móvil que 
 
 ## **Preámbulo**
 
-Según el informe de ACNUR ["Tendencias Globales, Desplazamento Forzado en 2017"](https://eacnur.org/files/tendencias_acnur_refugiados_2017.pdf)al finalizar 2017 se registraron 68.5 millones de personas desplazadas por la fuerza en el mundo. De ésta cifra 25.4 millones de personas se encuentran en condición de refugio.
+Según el informe de ACNUR ["Tendencias Globales, Desplazamiento Forzado en 2017"](https://eacnur.org/files/tendencias_acnur_refugiados_2017.pdf)al finalizar 2017 se registraron 68.5 millones de personas desplazadas por la fuerza en el mundo. De ésta cifra 25.4 millones de personas se encuentran en condición de refugio.
 
 Tomando como referencia el mismo informe, la cantidad de personas desplazadas ha incrementado en 2017 en 2.9 millones más de personas y aunque los contextos en los que se produce el desplazamiento de las distintas poblaciones son variados generalmente éste desplazamiento se produce como consecuencia de persecuciónes y conflictos o  violencia generalizada. 
 
